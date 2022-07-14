@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stephane.briclot@gmail.com
+	name = Stephane Briclot
